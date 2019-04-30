@@ -14,7 +14,7 @@ When I get a new PC, these are all the things I typically install first:
 * Steam
 * VLC Media Player
 
-# To Do:
+### To Do:
 * Update Drivers (Windows Update)
 * Update Graphics (GeForce Experience)
 * OhMyWindows! (OhMyFish for Windows)
@@ -24,7 +24,7 @@ When I get a new PC, these are all the things I typically install first:
 3. Restart Computer
 4. Go to Microsoft Store, install Ubuntu
   
-* To install OhMyFish, Fishshell and TMUX
+### To install OhMyFish, Fishshell and TMUX
 1. sudo apt-get install fish
 2. Make fish default shell by running `vim ~/.bashrc`
 3. Somewhere near the top, put this:
