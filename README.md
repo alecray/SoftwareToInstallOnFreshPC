@@ -1,4 +1,4 @@
-# SoftwareToInstallOnFreshPC
+# Software To Install On A Fresh PC
 When I get a new PC, these are all the things I typically install first:
 Google Chrome
 Git (& git lola)
